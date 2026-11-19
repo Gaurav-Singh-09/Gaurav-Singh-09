@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Dynamic Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:38BDF8&height=180&section=header&text=Gaurav%20Singh&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=Data%20Scientist%20%7C%20GenAI%20%26%20RAG%20Builder%20%7C%20BI%20Analytics&descAlignY=60&descSize=18" width="100%" alt="Header Banner"/>
+# Hi 👋, I'm Gaurav Singh
+### Data Scientist • GenAI & RAG Builder • BI Analytics
 
   <!-- Animated Typing Subtitle -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+Grounded+RAG+%26+Vector+Search+Systems;Engineering+Multi-Class+NLP+%26+ML+Pipelines;Turning+Complex+Data+Into+Executive+Decisions" alt="Typing SVG" />
@@ -108,3 +108,7 @@
   <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-Singh-09&bg_color=0D1117&color=38BDF8&line=0284C7&point=F8FAFC&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
+
+  
+  
+
