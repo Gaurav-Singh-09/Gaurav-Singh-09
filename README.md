@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=210&section=header&text=Gaurav%20Singh&fontSize=52&fontColor=F8FAFC&fontAlignY=36&animation=fadeIn&desc=Data%20Scientist%20%E2%80%A2%20GenAI%20%26%20RAG%20Builder%20%E2%80%A2%20BI%20Analytics&descSize=18&descColor=E0F2FE&descAlignY=58" alt="Gaurav Singh banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Gaurav-Singh-09/Gaurav-Singh-09/main/banner.svg" alt="Gaurav Singh banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+Grounded+RAG+%26+Vector+Search+Systems;Engineering+Multi-Class+NLP+%26+ML+Pipelines;Turning+Complex+Data+Into+Executive+Decisions;Shipping+AI+that+cites+its+sources" alt="Typing SVG" />
 
@@ -201,6 +201,6 @@ flowchart LR
 <a href="https://www.linkedin.com/in/gaurav-singh-563bb028b"><img src="https://img.shields.io/badge/LinkedIn-Message_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gauravvsingh1122@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0369A1,100:0F172A&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/Gaurav-Singh-09/Gaurav-Singh-09/main/footer.svg" width="100%" alt="footer"/>
 
 </div>
