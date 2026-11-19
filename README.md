@@ -6,8 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+Grounded+RAG+%26+Vector+Search+Systems;Engineering+Multi-Class+NLP+%26+ML+Pipelines;Turning+Complex+Data+Into+Executive+Decisions;Shipping+AI+that+cites+its+sources" alt="Typing SVG" />
 
 <p>
-  <a href="https://www.linkedin.com/in/gaurav-singh-563bb028b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:gauravvsingh1122@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://medium.com/@gauravvsingh1122/your-data-looks-clean-so-why-is-your-dashboard-wrong-c3729ab5387d"><img src="https://img.shields.io/badge/Medium-Read_My_Article-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://github.com/Gaurav-Singh-09?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 </p>
